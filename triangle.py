@@ -1,11 +1,8 @@
 #******************************************************************************
 # triangle.py
 #******************************************************************************
-# Name: 
-#******************************************************************************
-# Remarks (optional):
-#Eduardo Esteves
-#MTH 3030
+#Eduardo E
+
 #
 
 #ask for the sidelength values in descending order
@@ -60,5 +57,6 @@ elif side_c < side_b < side_a:
     print('Values must be entered in descending order')
 else:
     print('Solved successfully!');print('The angles are:'); print(x); print(y); print(z)
+
 
 
